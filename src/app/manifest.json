@@ -1,0 +1,32 @@
+{
+	"name": "Doctor",
+	"short_name": "Doctor",
+	"theme_color": "#2E6D70",
+	"background_color": "#333333",
+	"start_url": "/",
+	"id": "doctor",
+	"display": "standalone",
+	"description": "Discover expert breast cancer doctors and specialists near you. Get trusted information on diagnosis, treatment options, and personalized care from top medical professionals.",
+	"icons": [
+		{
+			"purpose": "maskable",
+			"sizes": "512x512",
+			"src": "android-chrome-512x512.png",
+			"type": "image/png"
+		},
+		{
+			"purpose": "any",
+			"sizes": "512x512",
+			"src": "android-chrome-512x512.png",
+			"type": "image/png"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "android-chrome-192x192.png",
+			"type": "image/png",
+			"sizes": "1080x1920",
+			"form_factor": "narrow"
+		}
+	]
+}
